@@ -1,7 +1,7 @@
-package stringbuilder;
+package com.sbtask.logics;
 
-import helper.Helper;
-import invalidexception.InputInvalidException;
+import com.sbtask.exception.InputInvalidException;
+import com.sbtask.helper.Helper;
 public class StringBuilderTask {
 
 	public StringBuilder getStringBuilder(){

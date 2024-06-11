@@ -1,11 +1,11 @@
-package tester;
+package com.sbtask.tester;
 
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import invalidexception.InputInvalidException;
-import stringbuilder.StringBuilderTask;
+import com.sbtask.exception.InputInvalidException;
+import com.sbtask.logics.StringBuilderTask;
 
 public class StringBuilderTester {
 	public static void main(String[] args) {
